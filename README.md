@@ -1,5 +1,5 @@
 ---
-thema: "black"
+theme : "black"
 highlightThema: "darkula"
 transition: "slide"
 ---
@@ -8,8 +8,13 @@ transition: "slide"
 
 # クラウド
 
-<span style="font-weight: 600;">講師デモ</span>  
-<span style="font-weight: 20;">TOCfE BootCamp KANSAI 2018/06/24</span>
+<span style="font-size: 70%;">TOCfE BootCamp KANSAI 2018/06/23</span>
+
+- 講師デモ <!-- .element: style="font-weight: 900;" -->
+- 全体演習 <!-- .element: style="font-size: 70%;" -->
+- ガイド付きグループ演習 <!-- .element: style="font-size: 70%;" -->
+- グループ演習 <!-- .element: style="font-size: 70%;" -->
+- 個人演習 <!-- .element: style="font-size: 70%;" -->
 
 --
 
@@ -31,17 +36,15 @@ transition: "slide"
 ### 対立
 
 ジレンマ, 議論, 意思決定など  
-どちらが良いか悩み、諦めたり、フラストレーションを起こす根底にある<span style="color: #c03; font-weight: 900;">原因</span>のこと
+どちらが良いか悩み、諦めたり、フラストレーションを起こす<span style="color: #c03; font-weight: 900;">原因</span>のこと
 
 --
 
 #### 対立を見つけ出すのも解消するのも難しい
 
-- 明らかに対立しているにも関わらず、見ないふりをしている  <!-- .element: class="fragment" -->
-- 行動しない  <!-- .element: class="fragment" -->
-- 採った行動が見当違いだった <!-- .element: class="fragment" -->
+🙈 🙉 🙊  <!-- .element: class="fragment" style="font-size: 200%;" -->  
 
----
+--
 
 解決を諦めないために
 
@@ -54,7 +57,7 @@ transition: "slide"
 クラウドは5つのボックスと  
 ボックスのつながりを示す矢印で構成される
 
-![box](img/blank_box.jpg) <!-- .element height="80%" width="80%" -->
+![box](img/blank_box.jpg) <!-- .element height="80%" width="80%" style="border: none;" -->
 
 --
 
@@ -63,7 +66,7 @@ transition: "slide"
 衝突する2者間(<span style="color: #c03; font-weight: 900;">立場</span>や<span style="color: #c03; font-weight: 900;">手段</span>)を  
 2つのボックスにそれぞれを書き出す
 
-![box](img/hightlight_right.jpg) <!-- .element height="80%" width="80%" -->
+![box](img/hightlight_right.jpg) <!-- .element height="80%" width="80%" style="border: none;" -->
 
 --
 
@@ -72,7 +75,7 @@ transition: "slide"
 <span style="color: #c03; font-weight: 900;">なぜ</span>対立する状況になるのか、  
 <span style="color: #c03; font-weight: 900;">要望</span>を対立するボックスにつなげる
 
-![box](img/hightlight_center.jpg) <!-- .element height="80%" width="80%" -->
+![box](img/hightlight_center.jpg) <!-- .element height="80%" width="80%" style="border: none;" -->
 
 --
 
@@ -80,7 +83,7 @@ transition: "slide"
 
 2つの要望を同時に<span style="color: #c03; font-weight: 900;">満たせる目標</span>は何だろうか？
 
-![box](img/hightlight_left.jpg) <!-- .element height="80%" width="80%" -->
+![box](img/hightlight_left.jpg) <!-- .element height="80%" width="80%" style="border: none;" -->
 
 --
 
@@ -89,7 +92,7 @@ transition: "slide"
 間違いなく意味が通っていることを確認するには、
 声に出して読み上げることで確認できる
 
-![box](img/finish.jpg) <!-- .element height="70%" width="70%" -->
+![box](img/finish.jpg) <!-- .element height="70%" width="70%" style="border: none;" -->
 
 --
 
@@ -98,7 +101,43 @@ transition: "slide"
 なぜボックスがつながるのか情報不足があれば、
 <span  style="color: #c03; font-weight: 900;">仮定のボックス</span>をつなげて説明する
 
-![box](img/plus.jpg) <!-- .element height="80%" width="80%" -->
+![box](img/plus.jpg) <!-- .element height="80%" width="80%" style="border: none;" -->
+
+--
+
+### 解決策を出す
+
+妥協や一方を貶めるのではなく  
+<span  style="color: #c03; font-weight: 900;">両者を満たす解決策</span>とは何かを考える
+
+![box](img/anser.jpg) <!-- .element height="80%" width="80%" style="border: none;" -->
+
+---
+
+## 特定するための質問
+
+読み上げることの他に、  
+ボックスそれぞれに異なる表現で質問することで根底の原因が見つけやすくなる
+
+--
+
+<!-- .slide: style="font-size: 90%;" -->
+
+- 対立
+  + それぞれの立場は何をしたいのですか？  <!-- .element: class="fragment" -->
+  + ある立場で取りたい行動と別の立場と対立するものはなんですか？  <!-- .element: class="fragment" -->
+- 要望
+  + それぞれの立場はどういう行動を選択しましたか？  <!-- .element: class="fragment" -->
+  + なぜこの行動や手段が重要なのですか？  <!-- .element: class="fragment" -->
+  + この行動を取らないとどのような要望が脅かされますか？  <!-- .element: class="fragment" -->
+- 目標
+  + 2者が達成したいと思うような、似通った目標はありますか？  <!-- .element: class="fragment" -->
+  + 2者が望むような理想的な状況になりますか？  <!-- .element: class="fragment" -->
+
+---
+
+違和感がなくなるまで
+書いて読み直しましょう
 
 ---
 
@@ -147,29 +186,10 @@ transition: "slide"
 
 <!-- .slide: data-background-image="img/04_cloud.jpg" data-background-size="contain" -->
 
----
-
-## 特定するための質問
-
-読み上げることの他に、  
-ボックスそれぞれに異なる表現で質問することで根底の原因が見つけやすくなる
-
 --
 
-<!-- .slide: style="font-size: 90%;" -->
-
-- 対立
-  + それぞれの立場は何をしたいのですか？  <!-- .element: class="fragment" -->
-  + ある立場で取りたい行動と別の立場と対立するものはなんですか？  <!-- .element: class="fragment" -->
-- 要望
-  + それぞれの立場はどういう行動を選択しましたか？  <!-- .element: class="fragment" -->
-  + なぜこの行動や手段が重要なのですか？  <!-- .element: class="fragment" -->
-  + この行動を取らないとどのような要望が脅かされますか？  <!-- .element: class="fragment" -->
-- 目標
-  + 2者が達成したいと思うような、似通った目標はありますか？  <!-- .element: class="fragment" -->
-  + 2者が望むような理想的な状況になりますか？  <!-- .element: class="fragment" -->
+<!-- .slide: data-background-image="img/05_cloud.jpg" data-background-size="contain" -->
 
 ---
 
-違和感がなくなるまで
-書いて読み直しましょう
+👼  <!-- .element: style="font-size: 800%;" -->
