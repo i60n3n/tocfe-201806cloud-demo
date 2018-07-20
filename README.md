@@ -8,7 +8,7 @@ transition: "slide"
 
 # クラウド
 
-<span style="font-size: 70%;">TOCfE BootCamp KANSAI 2018/06/23</span>
+<span style="font-size: 70%;">TOCfE BootCamp KANSAI 2018/07/21</span>
 
 - 講師デモ <!-- .element: style="font-weight: 900;" -->
 - 全体演習 <!-- .element: style="font-size: 70%;" -->
@@ -42,7 +42,29 @@ transition: "slide"
 
 #### 対立を見つけ出すのも解消するのも難しい
 
-🙈 🙉 🙊  <!-- .element: class="fragment" style="font-size: 200%;" -->  
+--
+
+🙈 🙉 🙊  <!-- .element: style="font-size: 180%;" -->  
+- 避ける  
+<span style="font-size: 75%;">問題のすり抜け、話すことを拒否する</span>
+- あきらめる  
+<span style="font-size: 75%;">対立の一方のみ選択し、もう一方を無視する</span>
+- 強制  
+<span style="font-size: 75%;">一方が他方に意見を押し付け、他方の意志をくじく</span>
+- 綱引き  
+<span style="font-size: 75%;">両方が意見を譲らず、片方も意志を強制できる力がない</span>
+- 妥協  
+<span style="font-size: 75%;">両方ともが行動や要望をある程度のところであきらめる</span>
+
+--
+
+### Win-Win
+
+<span style="font-size: 140%;">目指すは両方の要望を満たすことができると気付くこと</span>
+
+- 少なくとも片方の行動、手段、意思決定が変更されている
+- 両者の要望が完全に満たされている
+- 目標が達成されている
 
 --
 
@@ -164,6 +186,10 @@ transition: "slide"
 
 --
 
+<!-- .slide: data-background-image="img/03_6_cloud.jpg" data-background-size="contain" -->
+
+--
+
 <!-- .slide: data-background-image="img/03_1_cloud.jpg" data-background-size="contain" -->
 
 --
@@ -188,7 +214,7 @@ transition: "slide"
 
 --
 
-<!-- .slide: data-background-image="img/05_cloud.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/05_cloud.jpg" data-background-size="contain" -->aaa
 
 ---
 
