@@ -214,7 +214,7 @@ transition: "slide"
 
 --
 
-<!-- .slide: data-background-image="img/05_cloud.jpg" data-background-size="contain" -->aaa
+<!-- .slide: data-background-image="img/05_cloud.jpg" data-background-size="contain" -->
 
 ---
 
